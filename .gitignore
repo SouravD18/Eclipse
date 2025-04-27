@@ -1,0 +1,6 @@
+# Ignore miniforge.sh
+miniforge.sh
+
+# Ignore pytest cache files
+.pytest_cache/
+__pycache__/
